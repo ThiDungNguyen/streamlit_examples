@@ -26,15 +26,15 @@ pip install -r requirements.txt
 
 ## Running the Application
 Once everything is ready, you can launch the application by running one of the following commands:
-- [Levenshtein Distance Calculation](https://app-project-6q8qbsczuhh54nzt3xatcc.streamlit.app/)
+- [Levenshtein Distance Calculation](https://appexamples-vglqsed9w2hfpxdumceilk.streamlit.app/)
 ```sh
 streamlit run scripts/01_word_correction.py
 ```
-- [Object Detection](https://app-project-br7kujv2xfmky84mbbzqvq.streamlit.app/)
+- [Object Detection](https://appexamples-mkzh4dw9v2cnhtuyv9vmwq.streamlit.app/)
 ```sh
 streamlit run scripts/02_object_detection.py
 ```
-- [Chatbot](https://app-project-v8ffadoqxud23vgymydvp3.streamlit.app/)
+- [Chatbot](https://appexamples-jahmndr7vakkggfzmyidpd.streamlit.app/)
 ```sh
 streamlit run scripts/03_chatbot.py
 ```

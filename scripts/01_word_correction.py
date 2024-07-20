@@ -85,6 +85,7 @@ def main_python():
 
 if __name__ == "__main__":
     # get a list of unique words
+
     vocabs = load_vocab(file_path='/data/vocab.txt')
     print('vocabs', vocabs)
     # main_python()
